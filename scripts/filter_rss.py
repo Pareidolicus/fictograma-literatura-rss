@@ -24,10 +24,10 @@ for entry in entries:
 
   fe = fg.add_entry()
   fe.title(entry.title)
-  print(entry.title)
   fe.link(href=link)
   fe.description(entry.get("summary", ""))
   fe.pubDate(entry.updated)
+  print(entry.updated, entry.title)
 
 fg.rss_file(OUTPUT_FILE)
 
