@@ -17,18 +17,23 @@ fg.title(feed_info.get("title", "RSS filtrado"))
 fg.link(href=feed_info.get("link", ""))
 fg.description(feed_info.get("subtitle", ""))
 
+num_entries = 0
 for entry in entries:
   link = str(entry["link"])
   if link.rsplit("/", maxsplit=1)[-1] != "1":
     continue
+  num_entries += 1
 
   fe = fg.add_entry()
   fe.title(entry.title)
   fe.link(href=link)
   fe.description(entry.get("summary", ""))
   fe.pubDate(entry.updated)
-  print(entry.updated, entry.title)
+  print(f"{num_entries}: {entry.title} [{entry.updated}]")
 
-fg.rss_file(OUTPUT_FILE)
+if num_entries > 0:
+  fg.rss_file(OUTPUT_FILE)
+  print("RSS actualizado")
+else:
+  print("RSS sin novedades")
 
-print("RSS actualizado")
