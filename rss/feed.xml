@@ -1,185 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Actividad en la etiqueta literatura</title><link>https://fictograma.com/</link><description>Últimas publicaciones en la etiqueta literatura</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 24 Mar 2026 19:05:42 +0000</lastBuildDate><item><title>Caldos de Ofenón. Bonus: Imágenes, comentarios, curiosidades</title><link>https://fictograma.com/d/2326-caldos-de-ofenon-bonus-imagenes-comentarios-curiosidades/1</link><description>&lt;p&gt;&lt;a href="https://i.ibb.co/6cw9BGCg/Portada-Booknet.jpg" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/6cw9BGCg/Portada-Booknet.jpg" title="" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Caldos de Ofenón fue la primera (y penúltima) novela que conseguí terminar, hace aproximadamente año y medio (Octubre de 2024). Desde entonces ha sufrido varias revisiones, y la que he publicado aquí, es la última. Me encantaría, en algún momento, cuando pueda permitirme hacerlo bien (técnica y económicamente), tenerla en papel y con ilustraciones.&lt;/p&gt;
-
-&lt;p&gt;Cuando esto ocurra, me gustaría contactar con algún artista que pueda hacerme unas ilustraciones de buena calidad y dé más valor al conjunto. Ni siquiera sé lo que puede costar esto, pero como no tengo un duro, ahora mismo ni me lo planteo. Sin embargo, la curiosidad por verle la cara a mis personajes me pudo en su momento, y le pedí a la IA que me hiciera unas imágenes de presentación. Las expongo a continuación, por orden de aparición en el texto:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://i.ibb.co/svm77tsR/Leynad.png" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/svm77tsR/Leynad.png" title="" /&gt;&lt;/a&gt;&lt;br /&gt;
-Leynad&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://i.ibb.co/1GKvm8xm/Tote.png" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/1GKvm8xm/Tote.png" title="" /&gt;&lt;/a&gt;&lt;br /&gt;
-Tote&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://i.ibb.co/VZdMT5C/Skyvy.png" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/VZdMT5C/Skyvy.png" title="" /&gt;&lt;/a&gt;&lt;br /&gt;
-Skyvy&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://i.ibb.co/fYGHHkts/Jerem-as.png" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/fYGHHkts/Jerem-as.png" title="" /&gt;&lt;/a&gt;&lt;br /&gt;
-Jeremías&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://i.ibb.co/FbXzhZTG/Ant-n.png" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/FbXzhZTG/Ant-n.png" title="" /&gt;&lt;/a&gt;&lt;br /&gt;
-Antón&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://i.ibb.co/WNpnYvvy/Habib.png" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/WNpnYvvy/Habib.png" title="" /&gt;&lt;/a&gt;&lt;br /&gt;
-Habib&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://i.ibb.co/XfvZsKpT/Tarek.png" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/XfvZsKpT/Tarek.png" title="" /&gt;&lt;/a&gt;&lt;br /&gt;
-Tarek&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://i.ibb.co/RG3N6fcQ/Lucas.png" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/RG3N6fcQ/Lucas.png" title="" /&gt;&lt;/a&gt;&lt;br /&gt;
-Lucas&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://i.ibb.co/YBhHJkHR/Durango.png" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/YBhHJkHR/Durango.png" title="" /&gt;&lt;/a&gt;&lt;br /&gt;
-Durango&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://i.ibb.co/DDQ90Nrd/Rinna.png" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/DDQ90Nrd/Rinna.png" title="" /&gt;&lt;/a&gt;&lt;br /&gt;
-Rinna&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://i.ibb.co/DHhNtrwh/Mummon.png" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/DHhNtrwh/Mummon.png" title="" /&gt;&lt;/a&gt;&lt;br /&gt;
-Mummon&lt;/p&gt;
-
-&lt;p&gt;Faltan personajes, y hay algunos hechos con estilo más fotográfico/realista y otros más tipo comic… y alguno con pinta de actor porno, pero es lo que tiene usar stable diffusion.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Algunas curiosidades:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;El título está basado vagamente en una combinación de dos nombres. El primero, “Cánticos de la lejana Tierra”, una novela de Arthur C. Clarke, que no es de mis favoritas pero el nombre me parece muy evocador y melancólico, y “Oberón”, nombre que conocía por la luna de Urano, aunque después he aprendido otras cosas de este ser mitológico, como que aparece en una de las obras más conocidas de Shakespeare (lo siento, no soy tan &lt;em&gt;leído&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;En el texto aparecen varias referencias u homenajes a algunas frases de la cultura popular española. “Este mes, no cobras”, “ostias como panes, pero entre coleguillas”, “¡nos sobra el dinero!”…&lt;br /&gt;
-Todo frases profundas de amplio calado filosófico.&lt;/p&gt;
-
-&lt;p&gt;Aunque traté de mantener un tono realista y correcto en la parte “científica” del texto, hay multitud de errores e imposibles. El ejemplo más claro es el “Anillo”. Un anillo orbital a solo 300 Km de altura en órbita geoestacionaria, por mucho que fuera solo un trocito y fuera más una estación espacial que un anillo, necesitaría de una cantidad enorme de energía para mantener dicha órbita, o dicho de otra manera, no estaría en órbita. Cuando me puse a calcular a cuanta distancia debe estar algo para mantener una órbita geoestacionaria, (mejor dicho, cuando le pedí a la IA que lo calculara), descubrí que en un planeta similar a la Tierra son unos 35000 kilómetros. A esa altura, el planeta no sería un “cielo”, así que decidí no cambiarlo pese al error. Este es sólo un ejemplo, pero hay muchos más y seguro que más de uno del que ni siquiera me he dado cuenta. Me encantaría que un astrónomo o un físico le echara un vistazo y me dijera cuántas barbaridades he metido. También me gustaría poder, en algún momento, llegar a tener los conocimientos necesarios como para escribir una historia de sci-fi con la ciencia correcta al cien por cien, pero por el momento, he de conformarme con que resulte &lt;em&gt;plausible&lt;/em&gt;, o al menos, &lt;em&gt;visualmente imaginable&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;El “universo” donde se desarrolla esta historia es el mismo donde se desarrolla el resto de historias que he escrito hasta ahora. Tengo escrita una especie de “historia alternativa” de este universo, pero está escrita con estilo “libro de texto” y posiblemente resulte un peñazo infumable para cualquiera que no sea yo, pero me sirve como guía y como punto de inicio para inventar muchas cosas. El tener un “universo” así, me da la posibilidad de usar personajes que me gusten en varias historias, interconectarlas entre ellas y hacer referencias a cosas que han pasado en otros textos, aún manteniendo el carácter independiente de cada historia. Es algo que hacen varios de mis escritores favoritos y una idea que &lt;em&gt;me pone&lt;/em&gt;, aunque a veces es difícil hacer que no se sienta forzado.&lt;/p&gt;
-
-&lt;p&gt;El pseudónimo que utilizo para publicar es un anagrama (con una “R” añadida para que quedara mejor), del nombre de uno de mis personajes favoritos de Isaac Asimov: Dors Venabili, la robot protectora que al mismo tiempo es la pareja de Hari Seldon en las precuelas de La Fundación. Mi nombre real… bueno, está bastante mal escondido en el texto de Caldos de Ofenón, así que poco secreto hay (no, no me llamo Mummon).&lt;/p&gt;
-
-&lt;p&gt;Si has llegado hasta aquí, muchísimas gracias por leer. Espero haberte podido sacar alguna sonrisilla y alguna reflexión, y sobre todo, que lo hayas disfrutado. (Y si no has llegado, ¿qué haces leyendo esto?)&lt;/p&gt;</description><pubDate>Sat, 21 Mar 2026 05:28:14 +0000</pubDate></item><item><title>El Alma que la Muerte Rechazó. Capítulo 21: Basura Real</title><link>https://fictograma.com/d/2328-el-alma-que-la-muerte-rechazo-capitulo-21-basura-real/1</link><description>&lt;p&gt;&lt;a href="https://i.imgur.com/h2qDg43.jpeg" rel="" target=""&gt;&lt;img alt="" src="https://i.imgur.com/h2qDg43.jpeg" title="" /&gt;&lt;/a&gt;Comencé a caminar sin dirección fija, dejándome llevar por el instinto. Iba con cautela; aunque mi cuerpo se sentía diferente, aún no sabía qué tan fuerte era. Sin embargo, mi sigilo fue en vano. A pocos metros me topé con otro de esos demonios; se veía igual de sádico que el anterior. Esa sonrisa depravada, la baba goteando de su lengua salida me demostraban que estos tipos se sienten invencibles.&lt;/p&gt;
-
-&lt;p&gt;Apenas me vio, comenzó a trepar por el techo hacia mí. Me puse en guardia y, en un parpadeo, el maldito ya estaba a mis espaldas. Giré sobre mis talones y bloqueé su golpe en seco. Me quedé helado: anteriormente, un impacto así me habría destrozado los huesos. También noté que reaccioné demasiado rápido.&lt;/p&gt;
-
-&lt;p&gt;El bicho saltó hacia atrás y mostró sus garras; eran tan largas que llegaban al suelo. Comenzó a cargar hacia mí, arrastrando sus armas contra la piedra con un chirrido insoportable.&lt;/p&gt;
-
-&lt;p&gt;—¡Ven, maldito! —dije, preparándome. Mi visión se ajustaba a la penumbra de la cueva, permitiéndome ver cada uno de sus movimientos en cámara lenta. Se me acercó demasiado, pero logré esquivar sus ataques con una agilidad asombrosa. En un descuido, le devolví un golpe directo a la quijada, como un boxeador.&lt;/p&gt;
-
-&lt;p&gt;Empecé a reír, estaba haciendo frente a un monstruo que anteriormente casi me mata y me arrebató un ojo. El bicho saltó hacia atrás y, en un instante, desapareció de mi vista. ¡Lo volvió a hacer! Se sumergió bajo la tierra. Sentí el temblor bajo mis pies y esquivé su agarre justo a tiempo saltando hacia un lado. El tipo emergió del suelo con la frustración marcada en su cara deforme.&lt;/p&gt;
-
-&lt;p&gt;Corrió hacia mí con rabia ciega, pero yo lo estaba esperando. De pronto, sentí un pinchazo en mis dedos y unas garras negras se extendieron de mis yemas; no eran tan largas como las suyas, pero se sentían letales.&lt;/p&gt;
-
-&lt;p&gt;Cuando estuvo frente a mí, me abalancé con una velocidad que ni yo mismo creía. Me agaché, evitando su zarpazo, y clavé mi arma directamente en su vientre, justo donde emanaba aquel brillo maldito. El demonio soltó un alarido desgarrador y agitó sus brazos frenéticamente antes de desplomarse, sin vida, sobre el frío suelo de la cueva.&lt;/p&gt;
-
-&lt;p&gt;—¡¿Creías que podías vencerme?! ¡Qué estúpido eres!&lt;/p&gt;
-
-&lt;p&gt;Me sentía eufórico, listo para cualquier reto. Seguí caminando hasta llegar a una habitación tan amplia que mis pasos producían un eco profundo. Varios pasillos desembocaban en aquel lugar; quizás en alguno de ellos estuviera la salida o alguna pista sobre mis padres.&lt;/p&gt;
-
-&lt;p&gt;Tendría que revisar uno por uno. Al acercarme al primero, mi nariz ardió: un hedor intenso a carne podrida emanaba de esa dirección.&lt;/p&gt;
-
-&lt;p&gt;—Supongo que es por aquí —bramé, adentrándome en la oscuridad. El túnel era extenso; pasé unos veinte minutos caminando hasta que desemboqué en una zona iluminada por varias fogatas. Mi sangre se heló. Había una horda de esas criaturas, al menos cuarenta de ellas. Me oculté rápidamente detrás de una roca enorme, rezando para que no me hubieran visto.&lt;/p&gt;
-
-&lt;p&gt;Miré en todas direcciones buscando cómo pasar desapercibido, y entonces encontré uno de mis objetivos de la peor manera posible. Mis padres colgaban del techo, claramente sin vida: desmembrados y vaciados por dentro. Me quedé petrificado, viendo con impotencia cómo las lágrimas nublaban mi visión. Mis rodillas cedieron por el peso del dolor y golpearon el suelo con un eco seco.&lt;/p&gt;
-
-&lt;p&gt;—¡Maldita sea! —di un grito.&lt;/p&gt;
-
-&lt;p&gt;Todos en la habitación se pusieron en guardia. Los cuarenta demonios giraron sus cabezas al unísono y comenzaron a avanzar en mi dirección con una rapidez aterradora. Me levanté por puro instinto y eché a correr de vuelta por el pasillo del que había venido. Estaba furioso, dispuesto a pelear, pero eran demasiados incluso para mi nuevo cuerpo.&lt;/p&gt;
-
-&lt;p&gt;—¡Mierda, ahora sí estoy jodido!&lt;/p&gt;
-
-&lt;p&gt;Corrí con todas mis fuerzas con todos esos tipos detrás de mí; si me distraía un solo segundo, moriría devorado. Después de unos minutos, logré llegar a la habitación amplia y, sin tener otra opción, me metí por un pasillo diferente. Una vez allí, por alguna razón, dejaron de seguirme. “¿Por qué actúan así?”, pensé extrañado. Sin darme cuenta, me estaba adentrando en el peor lugar posible.&lt;/p&gt;
-
-&lt;p&gt;A unos pasos encontré otra recamara muy espaciosa. Estaba vacía, así que la exploré, pero no tenía otra salida aparte de por donde entré. En el techo había un agujero amplio por donde se filtraba la luz y, justo debajo, algo parecido a un trono de piedra. Me acerqué y, llevado por la curiosidad, me senté en él. De pronto, el suelo vibró con una fuerza violenta.&lt;/p&gt;
-
-&lt;p&gt;—¿Qué carajos está pasando ahora? —me pregunté, esperando ya cualquier cosa.&lt;/p&gt;
-
-&lt;p&gt;Al fondo de la cueva, en una pared sólida, comenzó a abrirse una puerta colosal. Me puse en pie de un salto y me oculté en las sombras. Hace unos momentos yo había revisado ese lugar y no vi nada. ¿Por qué, de repente, ahora aparecía una puerta de cuatro metros de altura?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[El usuario ha entrado a los aposentos del primer rey demonio]&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[Se recomienda salir inmediatamente o de lo contrario tendrá que luchar]&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;¿Rey Demonio? Esto tiene que ser una broma. ¿Entonces por esa puerta va a entrar? No creo ser capaz de pelear en su contra; tenía que escapar rápidamente. Pero recordé que por la única salida estaban los otros cuarenta demonios. Estaba en la peor situación posible.&lt;/p&gt;
-
-&lt;p&gt;La puerta terminó de abrirse y una figura colosal de cuatro metros de altura se adentró en la sala. Su mera presencia hacía que el aire se sintiera pesado, difícil de respirar.&lt;/p&gt;
-
-&lt;p&gt;—¿Quién eres? ¿Osas sentarte en mi trono? —bramó la figura. Su voz era como el trueno, haciendo que las piedras del suelo vibraran. Aún no podía verle el rostro por la intensa luz que venía de sus espaldas, pero su silueta era aterradora.&lt;/p&gt;
-
-&lt;p&gt;—¿Qué hago?, ¿qué hago?, ¿qué hago?&lt;/p&gt;
-
-&lt;p&gt;Comencé a hiperventilar y, en medio del pánico, lo único que se me ocurrió fue hacerme el muerto. Retorcí la cara en una mueca de agonía, me llevé la mano al pecho y me lancé de espaldas contra el suelo, adoptando la pose dramática de un paro cardíaco fulminante. Por suerte, ya me había alejado del trono; ahora solo podía quedarme rígido y esperar a que aquel gigante se creyera mi circo.&lt;/p&gt;
-
-&lt;p&gt;El tipo se acercó a su trono y se sentó. Cada paso creaba un estruendo que hacía vibrar el suelo bajo mi cuerpo “inerte”. Volteó en mi dirección y, entreabriendo apenas los ojos, pude verlo mejor. Tenía una barba prominente, ojos amarillos y un rostro humanoide curtido por los años. Llevaba un hacha colosal que clavó en la pared con una facilidad aterradora y vestía unos ropajes pesados, parecidos al atuendo de los antiguos vikingos.&lt;/p&gt;
-
-&lt;p&gt;—¿Quién lanzó basura en mi habitación? —bramó con furia, señalándome con un dedo del tamaño de mi brazo.&lt;/p&gt;
-
-&lt;p&gt;“¿Este viejo cómo se atreve a tratarme como basura?” Pensé en ese momento, aunque estaba en una situación tensa aún me quedaba algo de dignidad.&lt;/p&gt;
-
-&lt;p&gt;—Cálmese, señor. Mandaré a que saquen ese cuerpo asqueroso de aquí. Descubriré quién fue y recibirá un castigo —respondió otra voz más suave. ¿Quizás era su sirviente?&lt;/p&gt;
-
-&lt;p&gt;No pasó ni un minuto cuando dos de esos monstruos me agarraron y me arrastraron fuera de la habitación. Me llevaron a otro lugar, no tenía idea de a dónde, hasta que sentí cómo me lanzaban a un pozo. Caí encima de un montón de carne en descomposición y restos óseos; supongo que era su vertedero personal.&lt;/p&gt;
-
-&lt;p&gt;—Sigo vivo —suspiré aliviado al quedarme solo, abriendo los ojos entre la carroña.&lt;/p&gt;
-
-&lt;p&gt;Me puse de pie con cuidado, sacudiéndome los restos. Estaba en el fondo de un pozo, pero al menos el Rey me consideraba basura. Y la basura, a veces, puede ser muy peligrosa si nadie la vigila.&lt;/p&gt;</description><pubDate>Sat, 21 Mar 2026 10:06:09 +0000</pubDate></item><item><title>Lo que podía imitar - Capítulo 9: Juguetes</title><link>https://fictograma.com/d/2330-lo-que-podia-imitar-capitulo-9-juguetes/1</link><description>&lt;p&gt;Es la mañana del día del esperado cumpleaños y los padres están más emocionados que su hijo. Después de todo, podrían verlo interactuar con otros niños en un entorno más festivo de lo acostumbrado y esperaban ver más facetas suyas.&lt;/p&gt;
-
-&lt;p&gt;No obstante, aún faltaba bastante tiempo y ahora se encuentran desayunando con un humor alegre. Aprovechan la sobremesa para confirmar los planes del día, verificar la dirección del lugar de la celebración y dejar clara la hora en que deben estar listos para salir.&lt;/p&gt;
-
-&lt;p&gt;Una vez terminado, recogieron la mesa, lavaron sus manos, cepillaron sus dientes y se dirigieron al antejardín para revisar las flores plantadas. Donde se encontraron con que, en uno de los espacios antes vacíos, había un diminuto tallo apenas visible por sobre la tierra.&lt;/p&gt;
-
-&lt;p&gt;Sin duda, había germinado correctamente y ahora empezaba a brotar. Al notar esto, los padres pudieron respirar con alivio al ver que las flores que habían conseguido podían crecer sin problemas. Su hijo también se da cuenta del reciente cambio, pero la curiosidad solo resiste unos segundos antes de desviar su atención en cumplir con la rutina diaria.&lt;/p&gt;
-
-&lt;p&gt;En cierta forma, para él es una fuente de mayor interés el observar las variadas expresiones en el rostro de sus padres, las cuales este día parecen ser más efusivas que de costumbre. Es así como lleva a cabo las labores de jardinería que acostumbra, para luego ir directo a lavarse las manos como había interiorizado.&lt;/p&gt;
-
-&lt;p&gt;En esta ocasión prefirieron quedarse en casa en lugar de jugar en el parque, para que no se agitara de más y no fuera cansado a la fiesta. Por lo tanto, dedicó la mayor parte del tiempo antes de almorzar a jugar con bloques. Causando que sus padres se pregunten si le gustan tanto como para que no se aburra de ellos.&lt;/p&gt;
-
-&lt;p&gt;Esto provocó una leve incomodidad en ellos. Aunque es conveniente que sea muy tranquilo y no requiera una mayor supervisión, resulta extraño que pueda jugar con lo mismo durante una hora o más, día tras día, sin sentir el deseo de hacer otra actividad. Tampoco es que luzca obsesionado o algo, pues guarda los bloques de juguete si le indican que haga algo más. Dado esto, desestimaron la situación como una simple excentricidad suya y le pidieron que los ayudara con la preparación del almuerzo para mantenerlo entretenido.&lt;/p&gt;
-
-&lt;p&gt;Pensando qué podía hacer para ayudar, optaron por decirle que lavara algunas verduras. Para ello, su hijo trajo un banco para niños y se subió en él para alcanzar el fregadero, mientras su padre observa esto de cerca por si pierde el equilibrio al realizar esta labor.&lt;/p&gt;
-
-&lt;p&gt;Primero, su madre le indicó que se remangara y lo guio lavando la primera de las verduras. Le enseña que debe frotar bien para remover la tierra que puedan traer y después colocarla en el colador que puso previamente en el mesón, sobre una toalla de papel.&lt;/p&gt;
-
-&lt;p&gt;Cada vez que termina de lavar una, se la muestra a su madre para que dé su aprobación antes de dejarla en el recipiente escurridor. Repite este procedimiento para cada una de las verduras hasta que termina con ellas y vuelve a mirarla, como esperando más instrucciones.&lt;/p&gt;
-
-&lt;p&gt;No hay más tareas en la cocina con las que pueda ayudar y que no lo consideren peligroso, de manera que el padre le sugiere que lo ayude a colgar ropa en el patio trasero. Nuevamente, él simplemente lo sigue hasta donde se dirige sin rechistar ni mostrar signo alguno de renuencia. No sin antes llevar su pequeño banco al baño, donde suele dejarse.&lt;/p&gt;
-
-&lt;p&gt;En primera instancia, pasaron a sacar la ropa de la lavadora y le mostró la forma en que se coloca el colgador de ropa, para que se encargara de dicha labor.&lt;/p&gt;
-
-&lt;p&gt;Mostrando el resultado a su padre para confirmar que esté bien hecho antes de continuar con el siguiente. Posteriormente, van a colgar la ropa en el patio trasero. Sin embargo, en esta ocasión le corresponde observar solamente, puesto que no tiene forma de alcanzar las cuerdas para tender.&lt;/p&gt;
-
-&lt;p&gt;Terminan rápidamente y ahora no quedan más labores para mantenerlo ocupado. Se queda pensando unos momentos, mientras su hijo lo mira, como esperando más instrucciones. Finalmente, sugiere que jueguen con autos de la caja de juguetes que tiene, pensando en lo que debería hacer si se niega.&lt;/p&gt;
-
-&lt;p&gt;No obstante, sus preocupaciones fueron en vano y, con la misma mirada de siempre, se dirige a su caja, la destapa y toma el primer vehículo que encuentra. Lo mira unos segundos y después levanta la vista hacia su padre. No está seguro de cómo lo sabe, pero tiene la impresión de que le está preguntando qué hacer con el auto.&lt;/p&gt;
-
-&lt;p&gt;Seguramente habría visto en ocasiones anteriores a sus compañeros de curso jugando con autos de juguete en los recreos, pero no quedó registrado en su memoria debido a que no les prestó suficiente atención. Sobre todo, porque los niños que se le acercan son más bien del tipo que corre de un lado para otro, en lugar de sentarse a jugar.&lt;/p&gt;
-
-&lt;p&gt;De esta manera, fue su padre quien toma el auto que recibe de él y le muestra la forma en que se suele utilizar, aunque un poco avergonzado. Luego de aquella demostración, le devuelve el juguete y su hijo imita lo que acaba de aprender. Lo mira jugar tranquilamente, preguntándose los motivos por los cuales aceptó con tal facilidad no jugar con los bloques de siempre y dándose cuenta de que aún hay mucho que no entiende de él. Pero tales pensamientos se interrumpieron tras el llamado para almorzar.&lt;/p&gt;
-
-&lt;p&gt;No había muchos temas para conversar, con excepción del reciente cumpleaños. Por lo que la sobremesa se transformó en una oportunidad para darle instrucciones sobre cómo se debe comportar y lo que debe hacer en determinadas circunstancias.&lt;/p&gt;
-
-&lt;p&gt;Nada demasiado complicado, solo detalles sencillos como saludar cuando se encuentre con alguien por primera vez o saber decir palabras de cortesía, tales como «por favor» y «gracias». Siguieron con el tema diciéndole que podía ir donde estuvieran ellos si necesitaba algo y que preguntara a cualquier persona de la fiesta si por alguna razón no los encontraba.&lt;/p&gt;
-
-&lt;p&gt;Procuraron ser bastante literales respecto a lo que se refieren con saludar, despedirse y las palabras que se usan para pedir algo. Terminaron la charla repasando las palabras específicas que debe decir en determinados momentos. Luego se levantan para dejar limpia la mesa y la cocina.&lt;/p&gt;
-
-&lt;p&gt;Con todo ordenado, la madre va a buscar el juguete que habían comprado para el regalo de cumpleaños. Luego trae papel para envolver junto con cinta adhesiva transparente y una flor de cinta. Aprovecha la mesa desocupada para envolver rápidamente el obsequio, mientras el resto observa.&lt;/p&gt;
-
-&lt;p&gt;Todavía quedaba poco más de una hora antes de que tuvieran que salir de casa y no tienen la intención de cambiarse de ropa para la celebración. Por lo que pasan tiempo con su hijo mientras esperan el momento de partir.&lt;/p&gt;
-
-&lt;p&gt;En esta ocasión se dirige hacia la caja con sus juguetes y se queda mirando dos objetos. Uno es un recipiente cuyo interior contiene los bloques de construcción con los que siempre había jugado hasta hoy. El otro es un auto que recibió como regalo hace un tiempo, pero con el que no había jugado hasta antes del almuerzo de este día.&lt;/p&gt;
-
-&lt;p&gt;Estaba acostumbrado a escoger siempre los bloques, sin pensarlo en absoluto. En su mente, jugar dentro de la casa es equivalente a usarlos y hasta el día de hoy nunca lo había cuestionado. Sin embargo, le dijeron que utilizara otro elemento para su tiempo denominado juego.&lt;/p&gt;
-
-&lt;p&gt;Entonces, tomó el más cercano, que resultó ser un auto de fricción. Ni siquiera sabía cómo se usaban, así que su padre le mostró un ejemplo para que aprendiera a jugar y lo hizo hasta la hora del almuerzo. Ahora bien, esto da lugar a una disyuntiva, una que la gran mayoría de otros niños se enfrenta todos los días: ¿Qué debería escoger para jugar?&lt;/p&gt;
-
-&lt;p&gt;Una pregunta trivial que no debería tomar más que unos momentos de ligera ponderación. Pero no fue así y ahora se encuentra mirando ambos juguetes. Es algo natural, pues es la primera vez en su corta vida en que tiene que tomar una decisión y no posee dentro de sí un factor que le permita dar un valor mayor a una opción por sobre la otra.&lt;/p&gt;
-
-&lt;p&gt;En otras palabras, carece de preferencias personales. Es algo distinto a gustar o disgustar determinada comida, puesto que aquello es causado más bien por las particularidades de las papilas gustativas de cada individuo y las respuestas sensoriales. De manera que requiere solo un pequeño componente emocional para determinar que un alimento es mejor que otro, evaluándolo de forma intuitiva.&lt;/p&gt;
-
-&lt;p&gt;Todo lo que ven los padres es a su hijo pensando seriamente sobre con qué quiere jugar. No fue suficiente tiempo como para que consideraran una posibilidad distinta y, en su lugar, uno de ellos se acerca para sugerirle que escoja el auto. Lo que buscaba era evitar que eligiera el juguete de siempre, esperando que eventualmente aumente la variedad de sus juegos.&lt;/p&gt;
-
-&lt;p&gt;Bastaron unas simples palabras para que se decantara por el auto. Alcanzándolo con sus manos y sentándose en el suelo de la sala de estar. Es así como lo mueve de un lado a otro, dentro del alcance de sus brazos estirados y de vez en cuando haciendo que retroceda para luego soltarlo y que avance por su cuenta. Poniéndose de pie para ir tras él cada vez que se escapa y sentándose nuevamente para repetir esto.&lt;/p&gt;
-
-&lt;p&gt;Era una nueva forma de pasar el tiempo jugando, pero las acciones mecánicas que realiza, que hacen parecer como si estuviera en un trance, ocurren de igual manera que al jugar con los bloques de construcción. No es que se concentre demasiado en ello, mucho menos que se obsesione. Lo que es diferente en él es la manera en que interpreta el tiempo de juego.&lt;/p&gt;
-
-&lt;p&gt;Aunque visto desde fuera resulta difícil comprender esta significativa diferencia, más aún para padres sin experiencia como estos, quienes tampoco tienen conocimientos relacionados con trastornos infantiles.&lt;/p&gt;
-
-&lt;p&gt;Es así como los minutos se acumulan y, en el momento en que ven el reloj en una de las paredes, se dan cuenta del tiempo pasado y de que llegó el momento en que deben terminar de alistarse para salir. Por lo tanto, le hablan a su hijo para indicarle que guarde sus juguetes y posteriormente, revisan que su ropa esté limpia y ordenada para finalmente dirigirse a la fiesta de cumpleaños de su compañero de curso.&lt;/p&gt;</description><pubDate>Sat, 21 Mar 2026 15:12:08 +0000</pubDate></item><item><title>VENCEDOR</title><link>https://fictograma.com/d/2334-vencedor/1</link><description>&lt;p&gt;El cielo, otrora un lienzo de azul y estrellas, se convirtió en un infierno de metal y plasma. Los Silicar, una raza de seres cristalinos con mentes frías y una sed insaciable de recursos, descendieron como langostas de acero. Sus naves, fractales angulares que desafían la geometría conocida, borraron ciudades enteras con haces de energía verde esmeralda.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Actividad en la etiqueta literatura</title><link>https://fictograma.com/</link><description>Últimas publicaciones en la etiqueta literatura</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 25 Mar 2026 02:25:58 +0000</lastBuildDate><item><title>VENCEDOR</title><link>https://fictograma.com/d/2334-vencedor/1</link><description>&lt;p&gt;El cielo, otrora un lienzo de azul y estrellas, se convirtió en un infierno de metal y plasma. Los Silicar, una raza de seres cristalinos con mentes frías y una sed insaciable de recursos, descendieron como langostas de acero. Sus naves, fractales angulares que desafían la geometría conocida, borraron ciudades enteras con haces de energía verde esmeralda.&lt;/p&gt;
 
 &lt;p&gt;La resistencia humana fue feroz, pero patética. Tanques se derretían como mantequilla, aviones caían como moscas chamuscadas, y las redes digitales, nuestra orgullosa creación, fueron pirateadas y vueltas contra nosotros en minutos.&lt;br /&gt;
 Parecía el fin.&lt;/p&gt;
@@ -787,4 +607,242 @@ Kenshin no apartó la mirada.&lt;br /&gt;
 
 &lt;p&gt;Un muro completamente inesperado. Había pensado que sería similar a sonreír con la boca, pero en realidad existe un problema adicional, el cual es que hay más músculos faciales que se pueden mover con el mismo gesto de entrecerrar los ojos. Al menos es el caso cuando no se hace adecuadamente.&lt;/p&gt;
 
-&lt;p&gt;Se detiene a pensar unos momentos y llega a la pronta conclusión de tapar su propia frente. Una respuesta simple y directa, dado que lo que busca en primera instancia es conseguir encontrar la expresión que más adelante planea imitar. De esta manera, coloca una mano en su frente y continúa entrecerrando los ojos de distintas formas, sin detenerse hasta lograr su cometido. Al menos esa era su intención, pero no la podrá cumplir, debido a que su tiempo de entrenamiento se ha acabado.&lt;/p&gt;</description><pubDate>Tue, 24 Mar 2026 14:12:38 +0000</pubDate></item></channel></rss>
+&lt;p&gt;Se detiene a pensar unos momentos y llega a la pronta conclusión de tapar su propia frente. Una respuesta simple y directa, dado que lo que busca en primera instancia es conseguir encontrar la expresión que más adelante planea imitar. De esta manera, coloca una mano en su frente y continúa entrecerrando los ojos de distintas formas, sin detenerse hasta lograr su cometido. Al menos esa era su intención, pero no la podrá cumplir, debido a que su tiempo de entrenamiento se ha acabado.&lt;/p&gt;</description><pubDate>Tue, 24 Mar 2026 14:12:38 +0000</pubDate></item><item><title>Rey David cap 9-12</title><link>https://fictograma.com/d/2377-rey-david-cap-9-12/1</link><description>&lt;p&gt;&lt;a href="https://i.ibb.co/LXXg2BwL/kingdavid.jpg" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/LXXg2BwL/kingdavid.jpg" title="" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;Capítulo Nueve&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Estaba sentado en la última banca, tratando de hacerme chiquito. Más chiquito que la luz que entraba por los vitrales. El sol caía en el piso en manchas raras, colores que se veían… mal, como si no fueran de verdad.&lt;/p&gt;
+
+&lt;p&gt;El cura murmuraba algo. Oraciones, supongo. No le entendía. Las palabras se quedaban ahí, flotando, sin irse. Yo no tenía que estar ahí. Eso lo sabía. Pero estaba calentito. Tranquilo. Nadie me molestaba. Y por un rato… eso alcanzó.&lt;/p&gt;
+
+&lt;p&gt;Las puertas se abrieron de golpe.&lt;/p&gt;
+
+&lt;p&gt;—¡David!&lt;/p&gt;
+
+&lt;p&gt;Me quedé tieso.&lt;/p&gt;
+
+&lt;p&gt;Jones entró casi corriendo. Todo sudado, la cara roja, respirando como si se le fuera a salir el pecho. Como si ya hubiera llegado tarde.&lt;/p&gt;
+
+&lt;p&gt;—¡Mi hija está enferma! ¡Tienes que venir conmigo al hospital!&lt;/p&gt;
+
+&lt;p&gt;Sentí el estómago apretarse.&lt;/p&gt;
+
+&lt;p&gt;—Yo… no sé si…&lt;/p&gt;
+
+&lt;p&gt;El cura se movió antes de que terminara. Dio un paso al frente, manos juntas, tranquilo. Demasiado tranquilo para lo que estaba pasando.&lt;/p&gt;
+
+&lt;p&gt;—Señor Jones, déjelo.&lt;/p&gt;
+
+&lt;p&gt;Jones ni lo miró bien.&lt;/p&gt;
+
+&lt;p&gt;—¡No! ¡Ella lo necesita! ¡Se está muriendo!&lt;/p&gt;
+
+&lt;p&gt;—Dije que lo deje —repitió el cura.&lt;/p&gt;
+
+&lt;p&gt;No gritó. Pero algo en su voz… se sintió pesado. Jones apretó la mandíbula. Respiraba feo, rápido.&lt;/p&gt;
+
+&lt;p&gt;—¡Usted no entiende! ¡Es mi hija!&lt;/p&gt;
+
+&lt;p&gt;—Entiendo —dijo el cura—. Pero él también es un niño.&lt;/p&gt;
+
+&lt;p&gt;Pausa.&lt;/p&gt;
+
+&lt;p&gt;—No es suyo. Ni mío.&lt;/p&gt;
+
+&lt;p&gt;Tragué saliva.&lt;/p&gt;
+
+&lt;p&gt;—Es de él mismo.&lt;/p&gt;
+
+&lt;p&gt;Me encogí más en la banca. Metí las manos dentro de las mangas. El corazón me latía tan fuerte que dolía, como si me estuviera golpeando por dentro.&lt;/p&gt;
+
+&lt;p&gt;—¿Qué quieres que haga? —murmuré.&lt;/p&gt;
+
+&lt;p&gt;No sé si salió en voz alta. El cura me miró. Ojos suaves, como si nada doliera.&lt;/p&gt;
+
+&lt;p&gt;—Nada. No hagas nada. Aquí estás a salvo.&lt;/p&gt;
+
+&lt;p&gt;A salvo. No se sentía así. Quería correr. Quería esconderme debajo de la banca. Quería ayudar. Quería no estar ahí. Todo junto.&lt;/p&gt;
+
+&lt;p&gt;Jones me agarró del hombro. Fuerte.&lt;/p&gt;
+
+&lt;p&gt;—Nos vamos. Ya.&lt;/p&gt;
+
+&lt;p&gt;Me solté. Sin pensar. Y entonces lo vi. Su pierna. La cojera. La misma de antes. La que ya no tenía. Ahí estaba otra vez. Mi cabeza se quedó en blanco un segundo. No tenía sentido. Yo ni lo había tocado. No de verdad.&lt;/p&gt;
+
+&lt;p&gt;Pero las manos… me ardían dentro de las mangas. Como si hubieran hecho algo solas. El pecho se me cerró. Primero miedo. Luego la culpa.&lt;/p&gt;
+
+&lt;p&gt;El cura puso su mano en mi hombro. Suave. Pero firme.&lt;/p&gt;
+
+&lt;p&gt;—No te preocupes —dijo bajito—. Nadie te va a hacer daño. Nadie te va a obligar a nada.&lt;/p&gt;
+
+&lt;p&gt;Jones soltó un sonido, como un gruñido. Dio un paso atrás, pero no se fue. No del todo. Se veía… roto. Enojado. Las dos cosas.&lt;/p&gt;
+
+&lt;p&gt;Mi cuerpo no dejaba de temblar. Cuando por fin se fue, diciendo cosas en voz baja que no alcancé a entender, y las puertas se cerraron, el silencio regresó de golpe.&lt;/p&gt;
+
+&lt;p&gt;Demasiado silencio. Me dejé caer otra vez en la banca. El pulso fue bajando. De a poco. Pero algo ya no estaba igual. No lo había curado.&lt;/p&gt;
+
+&lt;p&gt;Esta vez no.&lt;/p&gt;
+
+&lt;p&gt;Y eso… eso me dio más miedo que todo lo demás.&lt;/p&gt;
+
+&lt;h3&gt;&lt;/h3&gt;
+
+&lt;h3&gt;Capítulo Diez – Experimentos Silenciosos&lt;/h3&gt;
+
+&lt;p&gt;El sótano olía igual. Siempre igual. Concreto mojado. Tuberías viejas. Y ese incienso que se quedaba pegado en todo.&lt;/p&gt;
+
+&lt;p&gt;Me envolví en la manta delgada que Morales me dejó. Estaba doblada bien, como si importara. Al lado, un tazón de sopa. Todavía tibio.&lt;/p&gt;
+
+&lt;p&gt;Y una nota.&lt;/p&gt;
+
+&lt;p&gt;Para mi pequeño milagrito. Me quedé mirándola más de lo que quería. El corazón seguía acelerado. Por la misa. Por Jones. Por su cara cuando vio lo de la pierna. Metí las manos más adentro de las mangas. Las apreté.&lt;/p&gt;
+
+&lt;p&gt;El calor seguía ahí. Nunca se iba del todo. Las palmas me latían raro. Como si… no fueran solo mías. No sabía qué hacer con eso. Con lo que soy. Pensé en la paloma. La de la semana pasada. El cuello torcido. Cómo se acomodó. Lento, pero sí.&lt;/p&gt;
+
+&lt;p&gt;Eso sí funcionó.&lt;/p&gt;
+
+&lt;p&gt;Wanita no. Y Jones… Ni siquiera hice nada. Y aún así se jodió. Entonces no era solo yo. O sí. Pero no como pensaba. Tragué saliva. Miré el techo. Tenía que entender. Me bajé de la cama. El piso estaba frío. Me despertó un poco.&lt;/p&gt;
+
+&lt;p&gt;Morales había dejado unos trapos viejos. Agarré uno. Lo sostuve contra las manos. Cerré los ojos. Pensé en la paloma. Después en Wanita. Después en Jones. Nada.&lt;/p&gt;
+
+&lt;p&gt;Respiré hondo. Otra vez. Más lento. Tratando de… no sé. Sentir algo bueno. De verdad querer ayudar. Las palmas se calentaron un poco.&lt;/p&gt;
+
+&lt;p&gt;Un segundo.&lt;/p&gt;
+
+&lt;p&gt;Ya.&lt;/p&gt;
+
+&lt;p&gt;Me aparté rápido. Me quedé viendo mis manos. Otra vez. Más fuerte ahora. Metí todo. El miedo. La culpa. Las ganas de que algo saliera bien por una vez. El pecho se me apretó.&lt;/p&gt;
+
+&lt;p&gt;El trapo se calentó otra vez. No mucho. Pero estaba. Ahí. Y ahí fue cuando medio entendí. No era solo el cuerpo. Ni la herida. Ni el dolor. Era… otra cosa. La persona. Algo que traían adentro. Algo que pesaba. Que importaba.&lt;/p&gt;
+
+&lt;p&gt;No sé.&lt;/p&gt;
+
+&lt;p&gt;Tal vez el corazón. Tal vez algo peor. O algo mejor. No tenía idea. Me senté en la cama y me cubrí la cara con las manos. El sótano estaba en silencio. Muy en silencio. Mi cabeza no. No podía curar a todos. No podía empezar a decidir quién sí y quién no.&lt;/p&gt;
+
+&lt;p&gt;Eso… se sentía mal.&lt;/p&gt;
+
+&lt;p&gt;Pero tampoco podía hacer nada. O sí podía. Y no lo hacía. Y eso se sentía peor. ¿Qué carajos decía eso de mí? Bajé las manos despacio. Las dejé en las piernas. Intenté pensar en algo chico. Una persona. Un momento. Algo bueno. Aunque fuera mínimo.&lt;/p&gt;
+
+&lt;p&gt;No todos. Todavía no. Solo… uno.&lt;/p&gt;
+
+&lt;p&gt;La luz de la luna entraba por la ventanita. Pálida. Apenas. Y aun así…, algo tan chico se sentía pesado. Mucho más de lo que debería.&lt;/p&gt;
+
+&lt;h3&gt;&lt;/h3&gt;
+
+&lt;h3&gt;Capítulo Once – Wanita y el hospital&lt;/h3&gt;
+
+&lt;p&gt;Me fui antes de que saliera el sol. El sótano seguía en silencio. La camita ya estaba fría cuando me levanté. Afuera, el aire olía a calle mojada y basura. Ese olor que se te mete en la nariz y no se va. Pero no importaba.&lt;/p&gt;
+
+&lt;p&gt;Solo pensaba en Wanita. Seguía en el callejón. En su rincón de siempre. Encogida. Como si el mundo la hubiera doblado ahí y ya. Tenía los ojos medio cerrados. La aguja todavía en la mano. La pierna…, otra vez mal. Roja. Inflamada. Peor que antes. No me vio al principio.&lt;/p&gt;
+
+&lt;p&gt;—Wanita —dije bajito.&lt;/p&gt;
+
+&lt;p&gt;Parpadeó. Me miró como si le costara enfocar. Confundida. Cansada. Asustada… un poco. Me agaché despacio. Sin acercarme demasiado.&lt;/p&gt;
+
+&lt;p&gt;—Déjame intentar otra vez —dije.&lt;/p&gt;
+
+&lt;p&gt;Sus manos temblaban. Se rió, pero feo. Sin ganas.&lt;/p&gt;
+
+&lt;p&gt;—No te molestes, niño… —murmuró—. Nadie arregla esto.&lt;/p&gt;
+
+&lt;p&gt;Me quedé ahí. Sin saber qué decir. El frío del suelo se me metía por las rodillas. Quería ayudarla. De verdad. Pero algo en el pecho… no se movía igual que con la paloma. Ni siquiera como antes.&lt;/p&gt;
+
+&lt;p&gt;Y ahí, mirándola así…, entendí.&lt;/p&gt;
+
+&lt;p&gt;A veces no es que no quieras. Es que no puedes.&lt;/p&gt;
+
+&lt;h3&gt;&lt;/h3&gt;
+
+&lt;h3&gt;Capítulo Doce – Límites&lt;/h3&gt;
+
+&lt;p&gt;Los hospitales tienen un sonido. No los pitidos. Eso es lo obvio. Es lo otro.&lt;/p&gt;
+
+&lt;p&gt;Los zapatos rozando el piso. Carritos que tiemblan cuando pasan. Una tos detrás de una cortina. Alguien llorando bajito, como escondiéndose.&lt;/p&gt;
+
+&lt;p&gt;David lo aprendió rápido. Estaba sentado junto a la ventana. Las manos juntas en el regazo. Quietas. Demasiado quietas, como si no confiara en ellas.&lt;/p&gt;
+
+&lt;p&gt;El niño en la cama—Evan, ocho años—temblaba debajo de una cobija delgada. Neumonía, dijeron. No se le quitaba. Tenía los labios medio azules.&lt;/p&gt;
+
+&lt;p&gt;La enfermera había dicho “estamos haciendo todo lo posible”. Y sí. Se notaba. David no miraba sus manos. Se concentraba en respirar. Lento. Como Morales le enseñó.&lt;/p&gt;
+
+&lt;p&gt;Inhala. Exhala.&lt;/p&gt;
+
+&lt;p&gt;“No arreglas”, le había dicho.&lt;/p&gt;
+
+&lt;p&gt;“Solo empujas un poco.”&lt;/p&gt;
+
+&lt;p&gt;David se levantó cuando la enfermera salió. La puerta hizo clic al cerrarse. Esperó. Uno… dos… diez segundos. Por si acaso. Se acercó a la cama.&lt;/p&gt;
+
+&lt;p&gt;—I’m not going to heal you… —murmuró, aunque el niño estaba dormido—. Solo… ayudar un poco.&lt;/p&gt;
+
+&lt;p&gt;Puso dos dedos sobre la cobija. Cerca de la muñeca. Sin tocar piel. No quería. El calor vino distinto esta vez. Despacio. Como un hilo. No como antes. David pensó en el frío soltándose. En la respiración haciéndose más fácil. Nada más. No más de eso.&lt;/p&gt;
+
+&lt;p&gt;El temblor bajó. No se fue. Pero bajó. David se apartó enseguida. El corazón le iba rápido, como si hubiera hecho algo prohibido. Se limpió las manos en el pantalón. Esperó.&lt;/p&gt;
+
+&lt;p&gt;Evan soltó un suspiro largo.&lt;/p&gt;
+
+&lt;p&gt;El pecho subió y bajó sin ese tirón raro de antes. Y entonces David lo sintió. Ese jalón en el pecho. Sutil. Como si algo… se diera cuenta. Ya.&lt;/p&gt;
+
+&lt;p&gt;Eso es todo, se dijo.&lt;/p&gt;
+
+&lt;p&gt;Eso es todo.&lt;/p&gt;
+
+&lt;p&gt;—Oye.&lt;/p&gt;
+
+&lt;p&gt;David se sobresaltó. Evan tenía los ojos abiertos. Cafés. Brillantes, a pesar de todo.&lt;/p&gt; 
+
+&lt;p&gt;—Estás caliente —dijo el niño.&lt;/p&gt;
+
+&lt;p&gt;No sonaba acusador. Solo… curioso. David tragó saliva.&lt;/p&gt;
+
+&lt;p&gt;—Así son los hospitales.&lt;/p&gt; 
+
+&lt;p&gt;Evan frunció el ceño.&lt;/p&gt;
+
+&lt;p&gt;—Tenía frío.&lt;/p&gt; 
+
+&lt;p&gt;David forzó una sonrisa.&lt;/p&gt;
+
+&lt;p&gt;—Ya se te va a pasar.&lt;/p&gt;
+
+&lt;p&gt;El niño lo miró un segundo más. Luego cerró los ojos otra vez. David retrocedió hacia la puerta. Despacio. Como si algo más pudiera despertarse si hacía ruido. En el pasillo, Morales estaba ahí. Esperándolo. No preguntó nada. No hacía falta.&lt;/p&gt;
+
+&lt;p&gt;—Lo sentiste, ¿verdad? —dijo.&lt;/p&gt;
+
+&lt;p&gt;David asintió. —Funcionó.&lt;/p&gt;
+
+&lt;p&gt;Morales negó un poco con la cabeza.&lt;/p&gt;
+
+&lt;p&gt;—No hablo de eso. David dudó.&lt;/p&gt;
+
+&lt;p&gt;—Alguien… se dio cuenta.&lt;/p&gt;
+
+&lt;p&gt;Los labios de Morales se apretaron.&lt;/p&gt;
+
+&lt;p&gt;—Así empieza.&lt;/p&gt;
+
+&lt;p&gt;Caminaron juntos por el pasillo. Enfermeras pasando. Papeles. Caras cansadas. David miraba al suelo.&lt;/p&gt;
+
+&lt;p&gt;—No puedes borrar la curiosidad —dijo Morales—. Una vez aparece… crece.&lt;/p&gt;
+
+&lt;p&gt;—No lo curé —dijo David—. Fui cuidadoso.&lt;/p&gt;
+
+&lt;p&gt;—Ya sé.&lt;/p&gt;
+
+&lt;p&gt;Se detuvo cerca de las escaleras.&lt;/p&gt;
+
+&lt;p&gt;—Pero “cuidadoso” no es lo mismo que invisible.&lt;/p&gt;
+
+&lt;p&gt;David se dejó caer contra la pared. Cansado de golpe.&lt;/p&gt;
+
+&lt;p&gt;—Entonces qué hago.&lt;/p&gt;
+
+&lt;p&gt;Morales no respondió de inmediato. Miró hacia el fondo del pasillo. David siguió su mirada.&lt;/p&gt;
+
+&lt;p&gt;Jones.&lt;/p&gt; 
+
+&lt;p&gt;Parado cerca del mostrador. Con un portapapeles en la mano, como si supiera qué estaba haciendo ahí. Pero no. Estaba mirando. Esperando En el reflejo del vidrio se veía claro. David sintió el calor en el pecho tensarse. Y luego… frío.&lt;/p&gt;
+
+&lt;p&gt;—Ahora decides dónde está la línea —dijo Morales.&lt;/p&gt;
+
+&lt;p&gt;Jones levantó la vista. Por un segundo corto. Sus ojos con los de David. Y luego sonrió. Ahí fue cuando David lo entendió de verdad. El hospital ya no era un lugar seguro. No para esto.&lt;/p&gt;</description><pubDate>Tue, 24 Mar 2026 23:46:22 +0000</pubDate></item></channel></rss>
