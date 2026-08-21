@@ -1,242 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Actividad en la etiqueta literatura</title><link>https://fictograma.com/</link><description>Últimas publicaciones en la etiqueta literatura</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 21 Aug 2026 06:48:19 +0000</lastBuildDate><item><title>Dragones Eternos</title><link>https://fictograma.com/d/3807-dragones-eternos/1</link><description>&lt;p&gt;&lt;a href="https://i.pinimg.com/736x/49/0b/e7/490be7c2a49ba72363112bad6d4f2482.jpg" rel="" target=""&gt;&lt;img alt="" src="https://i.pinimg.com/736x/49/0b/e7/490be7c2a49ba72363112bad6d4f2482.jpg" title="" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1&gt;Capitulo 06: Monarcas&lt;/h1&gt;
-
-&lt;p&gt;Base de Operaciones de la F.E.E.R “Seibom”&lt;/p&gt; 
-
-&lt;p&gt;Órbita de Excarla Ciudad de Orionon — Continente de Armins&lt;/p&gt; 
-
-&lt;p&gt;Planeta Excarla — República de los Dioses&lt;/p&gt;
-
- &lt;p&gt;Días después&lt;/p&gt;
-
-
-&lt;p&gt;El F.E.E.R Monarcas era demasiado pequeño para verse desde la superficie de Excarla — o más precisamente, la órbita era demasiado alta para que un crucero de clase Ercover fuera algo más que un punto de luz entre otros puntos de luz si alguien lo buscaba en el cielo nocturno con los instrumentos correctos. Pero en los radares de la Seibom aparecía con claridad desde hacía cuatro días, apostado en órbita baja con la regularidad de algo que espera sin apuro porque el apuro no cambia su función.&lt;/p&gt;
-
-&lt;p&gt;Katska lo había buscado en los radares la primera noche que apareció, sin razón táctica específica — solo porque estaba ahí y porque las cosas que estaban ahí merecían ser catalogadas.&lt;/p&gt;
-
-&lt;p&gt;El briefing del ejercicio fue a las siete horas en la sala de operaciones, más corto que los anteriores porque el Oberkomdan Soris era el tipo de oficial que no repetía lo que ya estaba en el documento escrito que todos habían recibido la noche anterior.&lt;/p&gt;
-
-&lt;p&gt;—El objetivo del ejercicio — dijo, de pie frente a la pantalla con el esquema del Monarcas desplegado — es operar desde una plataforma en órbita. Despegue desde el hangar del crucero, maniobras de escolta en perímetro exterior, maniobras de navegación en formación alrededor de la nave, repostaje interno y regreso a base. — Miró al grupo. — No es un ejercicio de combate. Es un ejercicio de procedimiento. La diferencia importa.&lt;/p&gt;
-
-&lt;p&gt;Katska procesó el esquema del Monarcas mientras Soris hablaba. Crucero de clase Ercover — diseño funcional antes que imponente, con dos hangares laterales capaces de alojar hasta doce cazas cada uno y una cubierta de maniobras interna que los planos indicaban como angosta pero suficiente para los Alarion con los márgenes correctos.&lt;/p&gt;
-
-&lt;p&gt;Los márgenes correctos en un hangar en órbita eran distintos a los márgenes en tierra. Sin gravedad natural, con los sistemas de anclaje del crucero haciendo el trabajo que la fricción hacía en la Seibom. Era otro conjunto de variables que el simulador había subrepresentado y que hoy iban a encontrar en versión real.&lt;/p&gt;
-
-&lt;p&gt;—Preguntas — dijo Soris. Era una verificación, más que una invitación.&lt;/p&gt;
-
-&lt;p&gt;—¿Los sistemas de anclaje del Monarcas son manuales o automáticos? — preguntó Katska.&lt;/p&gt;
-
-&lt;p&gt;—Asistidos. El piloto confirma la aproximación y el sistema completa el anclaje. — Soris la miró un momento. — Pero la aproximación tiene que estar dentro del margen. El sistema no corrige errores de entrada.&lt;/p&gt;
-
-&lt;p&gt;—¿Margen de tolerancia?&lt;/p&gt;
-
-&lt;p&gt;—Tres metros en el eje lateral. Dos en el vertical.&lt;/p&gt;
-
-&lt;p&gt;Tres metros. Dos metros. En un hangar en órbita con un caza que respondía de forma distinta sin resistencia de aire.&lt;/p&gt;
-
-&lt;p&gt;—Entendido — dijo Katska.&lt;/p&gt;
-
-&lt;p&gt;El despegue desde la Seibom fue a las nueve horas.&lt;/p&gt;
-
-&lt;p&gt;Los seis Alarion salieron en formación Delta con la familiaridad que ya era parte de su rutina — los motores con ese zumbido que Katska había dejado de notar como sonido nuevo y que ahora era simplemente parte del contexto de volar. La atmósfera de Excarla los recibió con su azul que tiraba hacia el gris en los bordes y los fue soltando gradualmente en los últimos kilómetros de la capa alta, hasta que el negro estrellado los rodeó desde todos los ángulos y el planeta quedó debajo como siempre.&lt;/p&gt;
-
-&lt;p&gt;El Monarcas apareció en los radares antes de aparecer a la vista.&lt;/p&gt;
-
-&lt;p&gt;Luego apareció a la vista.&lt;/p&gt;
-
-&lt;p&gt;Era modesto comparado con lo que Katska había leído sobre los cruceros de clase Godnis — esos sí tenían una escala que los registros describían con palabras que resultaban insuficientes hasta que uno los veía. El Monarcas era funcional, compacto para lo que era, con las líneas características de los Ercover — diseñados para moverse, para llevar carga viva y maquinaria, para ser útiles antes que intimidantes. Pero en el vacío, con el planeta detrás y sin referencias de escala más allá de los seis cazas que se acercaban, tenía una presencia que los planos no replicaban del todo.&lt;/p&gt;
-
-&lt;p&gt;—Usak a Monarcas Control — dijo Katska por el canal. — Escuadrón de seis Alarion IV, ejercicio de procedimiento autorizado. Solicitamos acceso al hangar sur.&lt;/p&gt;
-
-&lt;p&gt;—Monarcas Control a Usak. — La voz desde el crucero tenía el acento plano de las comunicaciones de tráfico orbital, sin inflexión personal. — Recibidos. Hangar sur abierto. Procedan en orden individual. Velocidad de aproximación máxima cuatro unidades. Sigan las balizas.&lt;/p&gt;
-
-&lt;p&gt;Las balizas del hangar sur del Monarcas eran visibles desde esta distancia — una línea de luces verdes que definían el eje de aproximación con la precisión de algo diseñado para eliminar ambigüedad. Katska las catalogó, calculó el ángulo, ajustó la trayectoria.&lt;/p&gt;
-
-&lt;p&gt;—Usak, aproximación individual en orden numérico. Yo primero. Mantengan posición de espera en perímetro exterior hasta confirmación de anclaje.&lt;/p&gt;
-
-&lt;p&gt;Confirmaciones en orden.&lt;/p&gt;
-
-&lt;p&gt;La aproximación al hangar del Monarcas era una conversación entre el piloto y el caza en un idioma que la atmósfera no usaba.&lt;/p&gt;
-
-&lt;p&gt;Sin resistencia de aire, cada corrección era más directa — no había ese margen de imprecisión que el viento y la densidad del aire introducían en el vuelo atmosférico y que los pilotos aprendían a compensar de forma tan automática que dejaba de sentirse como compensación. Aquí cada input era exactamente lo que producía, sin filtro, sin amortiguación. La diferencia era de milímetros en los controles pero de metros en la trayectoria si uno no lo calibraba correctamente.&lt;/p&gt;
-
-&lt;p&gt;Katska lo calibró.&lt;/p&gt;
-
-&lt;p&gt;La boca del hangar sur creció en el visor a medida que se acercaba — primero un rectángulo de luz entre el negro, luego una apertura con profundidad visible, luego el interior del hangar con sus paredes metálicas y sus sistemas de anclaje y dos técnicos en trajes de presión que esperaban en posiciones marcadas en el suelo.&lt;/p&gt;
-
-&lt;p&gt;Tres metros en el eje lateral. Dos en el vertical.&lt;/p&gt;
-
-&lt;p&gt;Entró con un metro y medio en el lateral y uno punto ocho en el vertical.&lt;/p&gt;
-
-&lt;p&gt;El sistema de anclaje confirmó la aproximación y completó el proceso con la eficiencia mecánica de algo que no tenía opinión sobre lo que sujetaba. El Alarion quedó fijo a la cubierta del hangar con un golpe sordo que se transmitió a través de la estructura del caza y que en tierra habría sido demasiado pero que aquí era exactamente lo que debía ser.&lt;/p&gt;
-
-&lt;p&gt;—Usak Líder a Control. Anclaje confirmado. Siguiente piloto puede iniciar aproximación.&lt;/p&gt;
-
-&lt;p&gt;Llevó veintitrés minutos anclar los seis cazas.&lt;/p&gt;
-
-&lt;p&gt;Herza entró segundo, limpio. Arvik tercera, con una precisión que Katska observó desde el interior del hangar y que era exactamente la que esperaba de ella. Voss cuarto, correcto y sin exceso. Solen quinta, con una corrección a mitad de aproximación que no debería haber sido necesaria pero que ejecutó bien una vez que la hizo.&lt;/p&gt;
-
-&lt;p&gt;Krim fue el último.&lt;/p&gt;
-
-&lt;p&gt;Entró con dos metros en el lateral y un metro setenta en el vertical, lo que era técnicamente dentro del margen pero que en la trayectoria de aproximación había tenido dos correcciones visibles que los sistemas del hangar registraron automáticamente. El anclaje se completó sin incidente.&lt;/p&gt;
-
-&lt;p&gt;Katska esperó a que bajara del cockpit.&lt;/p&gt;
-
-&lt;p&gt;—Krim.&lt;/p&gt;
-
-&lt;p&gt;—Lo sé — dijo él, antes de que ella continuara. — Las correcciones en la aproximación.&lt;/p&gt;
-
-&lt;p&gt;—¿Qué pasó?&lt;/p&gt;
-
-&lt;p&gt;—Sobreestimé la respuesta del propulsor de orientación izquierdo en la entrada. — Una pausa. — Lo vi cuando ya estaba dentro del margen de las balizas.&lt;/p&gt;
-
-&lt;p&gt;—¿Y corregiste?&lt;/p&gt;
-
-&lt;p&gt;—Corregí.&lt;/p&gt;
-
-&lt;p&gt;—Bien. — Katska lo miró un momento. — La próxima vez no sobreestimes.&lt;/p&gt;
-
-&lt;p&gt;—La próxima vez no sobreestimo — dijo Krim, con el tono de quien está haciendo una promesa a sí mismo tanto como respondiendo a su líder.&lt;/p&gt;
-
-&lt;p&gt;Las maniobras de escolta en perímetro exterior duraron cuarenta minutos.&lt;/p&gt;
-
-&lt;p&gt;Era el tipo de ejercicio que en los manuales de la F.E.E.R se describía con precisión técnica y que en la práctica era algo diferente — seis cazas moviéndose en coordenadas calculadas alrededor de una nave que no se movía, manteniendo distancias y ángulos de cobertura que dejaban el menor número posible de aproximaciones sin vigilancia. No había enemigo real. Había el ejercicio de actuar como si lo hubiera, que en la formación de una unidad era casi lo mismo.&lt;/p&gt;
-
-&lt;p&gt;Katska lo hizo con la mitad de la atención en los datos de posicionamiento del escuadrón y la otra mitad en lo que cada piloto hacía con los espacios entre las instrucciones.&lt;/p&gt;
-
-&lt;p&gt;Lo que Arvik hacía con esos espacios era siempre más interesante de lo que hacía con las instrucciones.&lt;/p&gt;
-
-&lt;p&gt;Dos veces durante el ejercicio, Arvik ajustó su posición en el perímetro sin que Katska lo ordenara — correcciones mínimas, casi invisibles en el visor si no sabías qué buscar, que mejoraban el ángulo de cobertura del sector que tenía asignado. Ninguna de las dos correcciones violaba el protocolo del ejercicio. Las dos mejoraban el resultado.&lt;/p&gt;
-
-&lt;p&gt;Katska las catalogó y no dijo nada.&lt;/p&gt;
-
-&lt;p&gt;Al final del perímetro, en el canal privado:&lt;/p&gt;
-
-&lt;p&gt;—Usak Cuatro a Líder. Las correcciones en los minutos doce y veintisiete. ¿Las vio?&lt;/p&gt;
-
-&lt;p&gt;—Las vi — dijo Katska.&lt;/p&gt;
-
-&lt;p&gt;—¿Problema?&lt;/p&gt;
-
-&lt;p&gt;—No. — Una pausa. — La próxima vez comuníquelas antes de ejecutarlas.&lt;/p&gt;
-
-&lt;p&gt;Un silencio breve.&lt;/p&gt;
-
-&lt;p&gt;—Recibido — dijo Arvik.&lt;/p&gt;
-
-&lt;p&gt;El repostaje fue a las once horas y media.&lt;/p&gt;
-
-&lt;p&gt;Los seis cazas volvieron al hangar sur en el mismo orden de la aproximación inicial — más fluido esta vez, los márgenes más ajustados en todos salvo Krim, que entró con un metro noventa en el lateral y un metro cincuenta en el vertical, lo que era una mejora medible respecto a la primera vez.&lt;/p&gt;
-
-&lt;p&gt;Katska lo notó. No lo dijo en voz alta porque no era el momento para eso.&lt;/p&gt;
-
-&lt;p&gt;El hangar sur del Monarcas en funcionamiento tenía una actividad diferente a la de la llegada — técnicos de repostaje moviéndose entre los cazas con la eficiencia de quienes hacen esto múltiples veces al día, sistemas de conexión que se acoplaban a los depósitos de los Alarion con clics metálicos que se transmitían a través de la cubierta. El olor del hangar era distinto al de la Seibom — más cerrado, más metálico, el tipo de ambiente que produce un espacio que no tiene acceso directo al exterior excepto por las compuertas de los hangares.&lt;/p&gt;
-
-&lt;p&gt;Katska se quitó el casco y lo sostuvo bajo el brazo.&lt;/p&gt;
-
-&lt;p&gt;Dos técnicos del Monarcas trabajaban junto al Alarion de Voss en el extremo norte del hangar. Hablaban entre ellos sin la volubilidad del trabajo ordinario — había algo en sus voces, en el tono específico de las palabras que intercambiaban, que Katska catalogó antes de escuchar el contenido.&lt;/p&gt;
-
-&lt;p&gt;Se acercó al panel de estado de repostaje de su propio caza.&lt;/p&gt;
-
-&lt;p&gt;Las voces llegaban con la claridad suficiente.&lt;/p&gt;
-
-&lt;p&gt;—…confirmado esta mañana. Tres sistemas más del Sector Nueve.&lt;/p&gt;
-
-&lt;p&gt;—¿Tres?&lt;/p&gt;
-
-&lt;p&gt;—Y el Sector Doce está tomando presión desde el flanco sur. Si ceden el nodo de Arven, la ruta de abastecimiento norte queda cortada completamente.&lt;/p&gt;
-
-&lt;p&gt;Una pausa. El sonido de un acople de repostaje.&lt;/p&gt;
-
-&lt;p&gt;—¿Cuándo lo supiste?&lt;/p&gt;
-
-&lt;p&gt;—Esta madrugada. Comunicación interna del Monarcas. No va a salir por canales oficiales hasta que tengan algo que decir que no sea solo malas noticias.&lt;/p&gt;
-
-&lt;p&gt;Katska siguió mirando el panel de estado.&lt;/p&gt;
-
-&lt;p&gt;El Sector Nueve con seis sistemas ahora. El Sector Doce bajo presión. El nodo de Arven — que había aparecido en los registros desclasificados que había leído en la biblioteca técnica como punto logístico crítico de la ruta norte — en riesgo de caer.&lt;/p&gt;
-
-&lt;p&gt;Sintió la confirmación de algo que ya estaba calculando y que ahora tenía números más precisos — nada parecido al pánico.&lt;/p&gt;
-
-&lt;p&gt;Herza apareció a su lado sin hacer ruido, como tenía por costumbre.&lt;/p&gt;
-
-&lt;p&gt;—¿Escuchaste? — dijo en voz muy baja.&lt;/p&gt;
-
-&lt;p&gt;—Sí.&lt;/p&gt;
-
-&lt;p&gt;—El Sector Doce también.&lt;/p&gt;
-
-&lt;p&gt;—Lo escuché.&lt;/p&gt;
-
-&lt;p&gt;Una pausa. El hangar seguía con su actividad de repostaje, los técnicos moviéndose, los sistemas conectando y desconectando con esos clics metálicos que ya eran el sonido de fondo del espacio.&lt;/p&gt;
-
-&lt;p&gt;—Menos de dos semanas — dijo Herza.&lt;/p&gt;
-
-&lt;p&gt;—Ya lo sé.&lt;/p&gt;
-
-&lt;p&gt;—Katska.&lt;/p&gt;
-
-&lt;p&gt;Ella lo miró.&lt;/p&gt;
-
-&lt;p&gt;Herza tenía esa expresión que usaba cuando quería decir algo que no era táctica ni protocolo ni análisis — algo más directo que todo eso, que en él siempre costaba un momento más de lo habitual porque no era el tipo de persona que lo decía fácilmente.&lt;/p&gt;
-
-&lt;p&gt;—Vamos a estar listos — dijo.&lt;/p&gt;
-
-&lt;p&gt;Era algo intermedio entre pregunta y afirmación — el tipo de cosa que se dice más por necesidad de decirla que porque sea completamente cierta.&lt;/p&gt;
-
-&lt;p&gt;Katska lo miró un momento.&lt;/p&gt;
-
-&lt;p&gt;—Sí — dijo.&lt;/p&gt;
-
-&lt;p&gt;Y lo dejó en eso.&lt;/p&gt;
-
-&lt;p&gt;Las maniobras de navegación en formación alrededor del Monarcas ocuparon la hora siguiente.&lt;/p&gt;
-
-&lt;p&gt;Era el ejercicio más complejo del día — no por la dificultad técnica individual sino porque requería que los seis cazas se movieran como sistema alrededor de un objeto de referencia fijo, ajustando posiciones en tiempo real según las correcciones del piloto líder, manteniendo distancias que en el vacío sin referencias visuales terrestres eran más difíciles de calibrar de lo que parecían en los planos.&lt;/p&gt;
-
-&lt;p&gt;Lo hicieron tres veces.&lt;/p&gt;
-
-&lt;p&gt;La primera pasada tuvo los bordes sin limar de algo que todavía estaba siendo aprendido. La segunda fue mejor — las correcciones llegaron antes, los espacios entre cazas se mantuvieron más consistentes, Krim ejecutó las maniobras de eje sin las correcciones reactivas que lo habían caracterizado en atmósfera.&lt;/p&gt;
-
-&lt;p&gt;La tercera pasada Katska la hizo en silencio — sin instrucciones adicionales, sin correcciones por canal, solo la formación moviéndose alrededor del Monarcas con la información que ya tenían y las decisiones que cada piloto tomaba con ella.&lt;/p&gt;
-
-&lt;p&gt;Cuando terminó, el canal del escuadrón quedó en silencio durante unos segundos.&lt;/p&gt;
-
-&lt;p&gt;Luego Krim dijo:&lt;/p&gt;
-
-&lt;p&gt;—¿Eso estuvo bien?&lt;/p&gt;
-
-&lt;p&gt;—Sí — dijo Katska.&lt;/p&gt;
-
-&lt;p&gt;—¿Bien bien o bien para ser la tercera vez?&lt;/p&gt;
-
-&lt;p&gt;—Las dos cosas.&lt;/p&gt;
-
-&lt;p&gt;Una pausa.&lt;/p&gt;
-
-&lt;p&gt;—De acuerdo — dijo Krim, con el tono de alguien que acepta una evaluación sin terminar de creerla del todo pero que decide no seguir preguntando.&lt;/p&gt;
-
-&lt;p&gt;El regreso a la Seibom fue a las catorce horas.&lt;/p&gt;
-
-&lt;p&gt;La entrada a la atmósfera de Excarla después de horas en el vacío tenía su propio tipo de transición — la inversa de la salida, el aire volviendo a existir alrededor del caza con esa resistencia gradual que empezaba como nada y terminaba siendo el contexto completo del vuelo. Los propulsores de orientación cedían paso a los alerones. El negro estrellado cedía paso al azul que tiraba hacia el gris en los bordes.&lt;/p&gt;
-
-&lt;p&gt;Aterrizaron en la pista de la Seibom con la luz de media tarde sobre los hangares y el calor del asfalto subiendo en ondas visibles.&lt;/p&gt;
-
-&lt;p&gt;Katska fue la última en bajar de su caza.&lt;/p&gt;
-
-&lt;p&gt;Se quedó en la pista un momento después de que los demás se dirigieran a los vestuarios — sin razón particular, solo porque el día había tenido suficiente información nueva como para necesitar un momento de quietud antes de seguir.&lt;/p&gt;
-
-&lt;p&gt;Seis sistemas del Sector Nueve. El Sector Doce bajo presión. El nodo de Arven en riesgo.&lt;/p&gt;
-
-&lt;p&gt;Menos de dos semanas.&lt;/p&gt;
-
-&lt;p&gt;El sol de Excarla estaba en su ángulo de media tarde y proyectaba la sombra larga del Alarion sobre el asfalto de la pista, negra sobre gris, con esa precisión geométrica que la luz directa producía.&lt;/p&gt;
-
-&lt;p&gt;Katska miró la sombra un momento.&lt;/p&gt;
-
-&lt;p&gt;Luego recogió el casco y entró al hangar.&lt;/p&gt;</description><pubDate>Thu, 13 Aug 2026 17:40:43 +0000</pubDate></item><item><title>Temporada 3 - Las Crónicas de Tharion: La Corona de Cenizas</title><link>https://fictograma.com/d/3812-temporada-3-las-cronicas-de-tharion-la-corona-de-cenizas/1</link><description>&lt;p&gt;&lt;a href="https://i.ibb.co/N6cjQpMF/cronicas-tharion-t3-portada.jpg" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/N6cjQpMF/cronicas-tharion-t3-portada.jpg" title="" /&gt;&lt;/a&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Actividad en la etiqueta literatura</title><link>https://fictograma.com/</link><description>Últimas publicaciones en la etiqueta literatura</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 21 Aug 2026 12:49:14 +0000</lastBuildDate><item><title>Temporada 3 - Las Crónicas de Tharion: La Corona de Cenizas</title><link>https://fictograma.com/d/3812-temporada-3-las-cronicas-de-tharion-la-corona-de-cenizas/1</link><description>&lt;p&gt;&lt;a href="https://i.ibb.co/N6cjQpMF/cronicas-tharion-t3-portada.jpg" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/N6cjQpMF/cronicas-tharion-t3-portada.jpg" title="" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;&lt;strong&gt;Capítulo 1: La Bahía de las Brumas&lt;/strong&gt;&lt;/h3&gt;
 
@@ -4189,4 +3952,79 @@
 
 &lt;p&gt;—¿Ya lo leíste…?&lt;/p&gt;
 
-&lt;p&gt;FINAL CAPITULO 10.&lt;/p&gt;</description><pubDate>Fri, 21 Aug 2026 04:04:11 +0000</pubDate></item></channel></rss>
+&lt;p&gt;FINAL CAPITULO 10.&lt;/p&gt;</description><pubDate>Fri, 21 Aug 2026 04:04:11 +0000</pubDate></item><item><title>Mi vida como vampiro. Capítulos III y IV</title><link>https://fictograma.com/d/3856-mi-vida-como-vampiro-capitulos-iii-y-iv/1</link><description>&lt;p&gt;&lt;a href="https://i.ibb.co/pByZ1xsW/Portada.png" rel="" target=""&gt;&lt;img alt="imagen" src="https://i.ibb.co/pByZ1xsW/Portada.png" title="" /&gt;&lt;/a&gt;Capítulo III&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Hola, me llamo Cristian, ¿me dejas darte un mordisquito?… Hola, me llamo Demian, ¿podría tomar un chupito de tu sangre?… Buenas, soy Leopoldo, Bill, Lestat, Eric, Drácula, Nosferatu, Reginald… ¿si te invito a un mini puedo beber de ti?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Caminaba con las manos temblando dentro de los bolsillos de los vaqueros, cada persona que pasaba cerca era un bofetón a mi mandibula, con ese olor a comida y esa hipnótica niebla roja que les rodeaba. Me estaba costando elegir la frase con la que entrarle a alguno de ellos. Tampoco me decidía con el nombre, imaginé que era mejor tener una especie de pseudónimo, así nadie podría andar contando que un vampiro llamado P. J. le había mordido la noche anterior.&lt;/p&gt;
+
+&lt;p&gt;Entré en un garito de los Bajos al que no había entrado nunca. Es raro pero su fachada nunca me había atraído, tenía ventanas que simulaban ojos de buey y yo no soy del tipo marinerito. Pensé que era mejor un sitio nuevo donde nadie me conocería. El problema es que en los Bajos todo el mundo se conoce, la gente suele hacer rondas por los distintos pubs. Estaba medio vacío porque era temprano, había dos camareros y una chica al fondo, apoyada en la barra, me paralizó la indecisión un par de minutos pero me repuse, mi estómago tiraba de mí, sentía que me iba a desmayar del hambre.&lt;/p&gt;
+
+&lt;p&gt;—Hola, esto, guapa. Me llamo Pedro José —la dije mientras ella me miraba con desinterés. —Por favor ponle un chupito de absenta a mi nueva amiga —pedí a uno de los camareros.&lt;/p&gt;
+
+&lt;p&gt;Para mi sorpresa Sandra, la desconocida de la barra, no rechazó la oferta. Aún con el dolor de estómago y los nervios, conseguí sonar simpático y la conté un par de chorradas que había visto por internet. Supongo que no era el primer chupito de Sandra aquella noche porque se rió con ganas y aceptó un par de cubatas. Conseguí que me siguiera a la calle sin complicación alguna y , agarrándome de la mano, se paró a unos metros de la puerta del pub y me pidió dinero. Una bajada a la fuente serían veinte euros, un revolcón entre los coches o dentro del mío, cuarenta.  No esperaba aquella negociación, me estaba luciendo ese fin de semana, dos veces pensando que había ligado y ninguna de las dos era cierta.&lt;/p&gt;
+
+&lt;p&gt;—Sandra, a mi lo que me va es un poco especial —me soltó la mano cuando oyó eso, pero para aprovechar el valor mientras me durase seguí hablando rápido —, ¿cuánto por chuparte un poco de sangre?&lt;/p&gt;
+
+&lt;p&gt;—Joder con las parafilias —me dijo abriendo un poco más los ojos —, tío, no es por negarme, necesito la pasta, pero me da cosa por lo de la higiene y eso.&lt;/p&gt;
+
+&lt;p&gt;—Me he lavado los dientes y estoy sano como una pera.&lt;/p&gt;
+
+&lt;p&gt;Sandra pareció pensar en ello, pero estaba colorada por la bebida que había tomado y no creo que fuera muy consciente de lo que hacía.&lt;/p&gt;
+
+&lt;p&gt;—Si no te tengo que chupar nada yo a ti, treinta. Vamos ahí, entre las dos furgonetas.&lt;/p&gt;
+
+&lt;p&gt;Con un dolor agudo en la boca del estómago y más nervios que la primera vez que tuve relaciones sexuales, prácticamente me arrastró por el brazo. Le di los treinta euros y extendió el otro brazo. Me la quedé mirando sin comprender, mi primera idea era el cuello y ahora que me daban la oportunidad de beber, era ridículo pero no sabía cómo hacerlo. Saqué la navajita suiza del bolsillo y Sandra se echó atrás.&lt;/p&gt;
+
+&lt;p&gt;—Eh, eso no estaba en el trato.&lt;/p&gt;
+
+&lt;p&gt;Volví a guardarla, miré la  muñeca de la chica y la giré para ver sus venas. La olisqueé como un perrillo, había perfume y un olor a sangre que me hizo rugir el estómago. Algo instintivo me echó hacia delante y besé su piel, pasando a lamerla y escuchando cosas que creía que no estaban a mi alcance. Oía acelerarse el corazón de Sandra, su pulso bombeando por su cuerpo… Estaba pensando que era muy curioso el tema cuando noté que mis dientes cobraban vida propia y abrían una pequeña herida bajo la parte carnosa del pulgar de la chica.&lt;/p&gt;
+
+&lt;p&gt;En las novelas y películas sobre el tema las víctimas suelen tener una reacción entre asustada y cachonda cuando las muerden. No diré que eso es más cosa de la ficción, porque ella sí que gritó y se quejó, dolorida más que asustada, y yo en cambio me excité bastante al tragar todo lo que pude. Retiró el brazo y me pegó una buena torta antes de irse caminando deprisa, sujetándose la muñeca. Me quedé un poco más, intentando tranquilizarme, entre aquellas dos furgonetas y noté que mi estómago se calmaba.&lt;/p&gt;
+
+&lt;p&gt;Aquel primer contacto fue un choque contra la cordura, los vampiros existían y yo era uno de ellos.&lt;/p&gt;
+
+
+&lt;p&gt;Capítulo IV&lt;/p&gt;
+
+&lt;p&gt;Volví a casa y dediqué la noche del sábado a pensar en el tema del vampirismo, las primeras  horas satisfecho y atontado por la pequeña comida que había conseguido. &lt;em&gt;¿No sería maravilloso vivir eternamente? ¿Me llegaría el sueldo para pagar a prostitutas que se dejasen morder de vez en cuando? ¿Era posible que tuviera algún super-poder vampírico?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Me dormí por la mañana sonriendo, la verdad, me parecía que me habían hecho un regalo con todo ese rollo y el tipo de la peste a Dolce &amp;amp; Gabbana me empezó a caer simpático. A primera hora de la tarde la luz que entraba por la claraboya me despertó, me dolía la cabeza y me tapé con la manta. Me di cuenta que a la sombra me sentía mejor. Era hora de comprobar los mitos. Estuve experimentando, con cuidado al principio, me iba acercando al rayo de sol que entraba y veía que no pasaba nada, lo tocaba y quitaba la mano, nada. Al final volví a ponerme debajo y me dolió la cabeza. Probé a bajar a la calle y lo que tendría que haber sido agonía y quemaduras, según la leyenda, solo era eso, un dolor constante de cabeza. Como punto a favor noté que ya no me asfixiaba al subir corriendo de nuevo hasta mi ático. Curioso.&lt;/p&gt;
+
+&lt;p&gt;Me miré de nuevo en el espejo y me encontré más guapo. El pelo más brillante, las mejillas huesudas un poco más rellenas, los ojos más despiertos. Contento con mi aspecto me probé varias combinaciones de traje y camisa, mi uniforme no oficial de trabajo y le sonreí al nuevo Pedro José que se reflejaba delante mía. Iba a ser que la sangre me sentaba bien.&lt;/p&gt;
+
+&lt;p&gt;Intenté oír lo que decían los vecinos en sus apartamentos, pero no distinguí mucho más que de costumbre, si afinaba un poco podía oír el latido… pero lejano, de la vecina de al lado, tan apagado que no sabía si me lo estaba imaginando o era mi propio pulso el que oía.&lt;/p&gt;
+
+&lt;p&gt;Me vino un recuerdo a la cabeza y escribí a mi compañero de trabajo para decirle que no iba a comer el lunes con él en el descanso. No quería que en el bar de enfrente de la oficina tuvieran que sufrir mis vómitos por intentar hacerme “el normal”. Sí, eso era un inconveniente, no podía comer con nadie, solo comerme a alguien. Mi sentido del humor al menos parecía intacto.&lt;/p&gt;
+
+&lt;p&gt;Llegó la mañana del lunes y me vestí como cualquier otro día de trabajo, cogí la bolsa de la comida para disimular, pero dentro solo llevaba el libro de &lt;em&gt;Entrevista con el vampiro&lt;/em&gt;, pensé que sería bueno comprobar qué más cosas eran diferentes entre los vampiros ficticios y yo.&lt;/p&gt;
+
+&lt;p&gt;Evidentemente el dolor de cabeza me acompañó todo el camino, al menos mientras estuve a la luz. Me encontré con mi compañero Julián en el hall de entrada.&lt;/p&gt;
+
+&lt;p&gt;—¿Estás mejor de la tripa? —me dijo, sin darle mucha importancia.&lt;/p&gt;
+
+&lt;p&gt;—Regular, me he traído una tortilla francesa.&lt;/p&gt;
+
+&lt;p&gt;—Yo no tenía comida preparada así que sí que me iré al bar. Vente luego a tomar un café.&lt;/p&gt;
+
+&lt;p&gt;Le dije que ya lo vería, según siguiera de la tripa. Él trabaja en el departamento contable de la misma empresa que yo, yo sin embargo soy uno de los ayudantes de secretario del director y trabajamos en plantas diferentes. Cuando me senté a mi escritorio noté que el dolor de cabeza desaparecía, mi sitio estaba lejos de todos los ventanales así que nunca le daba directamente la luz del sol.&lt;/p&gt;
+
+&lt;p&gt;El trabajo se me dio como siempre, no había evidencias de ninguna mejora en la velocidad o claridad mental. Me sentí un pelín decepcionado. Tampoco parecía que los otros secretarios se dieran cuenta de que estaba más guapo que de costumbre, eso me molestó un poco más.&lt;/p&gt;
+
+&lt;p&gt;En la hora de la comida me fui por la salida de atrás del edificio a un parque cercano, bordeando todos los tramos de luz; acechando por las sombras como dirían en la novela que llevaba en la bolsa del bocadillo. Me senté en un banco bajo un árbol y me puse a leer. Hacía años que había leído &lt;em&gt;Entrevista con el vampiro&lt;/em&gt; y no recordaba mucho de cómo estaba contada la historia. De momento en las primeras páginas me vi arrastrado por la voz de Louise que se quejaba mucho, pero mucho, mogollón, de el don que le habían impuesto. Estaba levantando las cejas mientras leía cuando se me acercó alguien.&lt;/p&gt;
+
+&lt;p&gt;—Hola, rata de biblioteca —me dijo otro de los secretarios de mi planta, un chaval bastante mono y comestible.&lt;/p&gt;
+
+&lt;p&gt;—Hola Ramón, no te creas que me importa que me llames así —le respondí dándole la vuelta al libro para que no viera la portada.&lt;/p&gt;
+
+&lt;p&gt;Me preguntó qué había hecho el fin de semana y no me costó mentirle, porque siempre contaba la misma historia a todo el mundo: había ido a comer con mis padres y mi hermano. Fue extraño pero esa vez Ramón me miró con más atención que otras y mientras hablaba me tocó repetidamente el brazo, cosa todavía más rara. Me sentía como si hubiera vuelto a ligar, pero me desinflé un poco al recordar las pasadas experiencias del finde. Estaba un poco distraído y no me había enterado del todo de sus movidas del sábado. Noté que me agarraba de la barbilla para que le mirase.&lt;/p&gt;
+
+&lt;p&gt;—Chico, hazme caso. Tienes que salir un viernes conmigo por Chueca, nos tomamos unos copazos y lo pasamos bien —me dijo mirándome a los ojos. Y sin más ni más me plantó un beso en toda la boca.&lt;/p&gt;
+
+&lt;p&gt;Era la primera vez que me pasaba algo así, tan directo, y encima con este chico que nunca se había fijado en mí, que yo supiera.&lt;/p&gt;
+
+&lt;p&gt;—Esteee, yo, este, ajam —dije mientras notaba incómodo que me subía un calor desde el estómago y no desde más abajo, que es lo que creo que le habría gustado a Ramón —, cuando quieras —terminé diciendo con voz de pito.&lt;/p&gt;
+
+&lt;p&gt;—Así me gusta —me respondió, el pedazo de… ¿descarado? ¿almuerzo con patas? No sabría decir. Pero mi olfato fue detrás de él cuando se marchaba: desodorante Axe y unas notas de vainilla junto con el óxido de la sangre.&lt;/p&gt;
+
+&lt;p&gt;Bueno, quizás sí que se había notado que estaba más guapo después de aquel fin de semana. Y quizás no tendría que pagar para alimentarme después de todo.&lt;/p&gt;</description><pubDate>Fri, 21 Aug 2026 11:47:04 +0000</pubDate></item></channel></rss>
